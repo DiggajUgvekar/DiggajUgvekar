@@ -22,29 +22,23 @@
 
  
 <div align="center"> 
-<a href="https://twitter.com/diggajugvekar" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/-X-blue?style=for-the-badge&logo=x&logoColor=white" 
-    alt="X Badge" 
-  />
-</a>
+  <a href="https://twitter.com/diggaj_ugvekar" target="_blank">
+    <img src="https://img.shields.io/badge/-X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
+  </a>
 
   <a href="https://www.linkedin.com/in/diggajugvekar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  
   <a href="https://www.diggajugvekar.tech/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
   </a>
 
-<a href="https://www.youtube.com/@DiggajMusic" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
-    alt="YouTube Badge" 
-  />
-</a>
-
-
+  <a href="https://www.youtube.com/@DiggajMusic" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </a>
 </div>
+
 
  <hr/>
  
